@@ -1,0 +1,6 @@
+import cn.hutool.extra.ssh.JschUtil;
+public class FunctionUse6926 {
+public void funcUse() {
+JschUtil jschutil = new JschUtil();
+}
+}
